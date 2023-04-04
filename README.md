@@ -1,9 +1,8 @@
-# [flaskBlog📜](https://dogukanurker.com/flaskblog)
+
 
 Simple blog app built with Flask.
 <br/>
-[Contact](mailto:dogukanurker@icloud.com)<br/>
-[Dogukan Urker](https://dogukanurker.com)
+
 
 |                 Desktop                  |                 Mobile                  |
 | :--------------------------------------: | :-------------------------------------: |
@@ -50,9 +49,6 @@ Simple blog app built with Flask.
 
 
 ## Installation
-
-download source code from Github 💾
-`git clone https://github.com/DogukanUrker/flaskBlog.git`
 
 go to directory 📁
 `cd flaskBlog`
